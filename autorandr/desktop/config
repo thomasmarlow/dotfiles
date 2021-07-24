@@ -1,0 +1,17 @@
+output DP1
+off
+output HDMI1
+off
+output VIRTUAL1
+off
+output VGA1
+crtc 1
+mode 1366x768
+pos 0x0
+rate 59.79
+output LVDS1
+crtc 0
+mode 1366x768
+pos 0x768
+primary
+rate 60.01

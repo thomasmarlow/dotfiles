@@ -1,0 +1,5 @@
+configuration {
+	theme: "slate";
+        font: "Droid Sans 11";
+        // show-icons: true;
+}
